@@ -18,7 +18,7 @@ src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1072gQ3tM-afOQXJY8Ppfgzrr4YRIkX6B/view?usp=sharing](https://drive.google.com/file/d/1072gQ3tM-afOQXJY8Ppfgzrr4YRIkX6B/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am a Chill guyd**
+- ⚡ Fun fact **I think I am a Chill guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
