@@ -40,7 +40,7 @@
 ###
 
 <p align="left">I'm from Walkilganj, Deoria, Near Gorakhpur, Up<br><br>- 🔭 I’m 4th year Student of ABES Engineering <br>- 📚 I'm currently learning ReactJs<br>- ⚡ In my free time I like to watch web series, Play outdoor Games etc</p>
-<p>-📫 Email me at **Nitinsinghs293@gmail.com** <br>
+<p>-📫 Email me at **Nitinsinghs273@gmail.com** <br>
 - 📄 My Resume [https://drive.google.com/file/d/1072gQ3tM-afOQXJY8Ppfgzrr4YRIkX6B/view?usp=sharing](https://drive.google.com/file/d/1072gQ3tM-afOQXJY8Ppfgzrr4YRIkX6B/view?usp=sharing)
 
 </p>
